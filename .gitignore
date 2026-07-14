@@ -7,4 +7,3 @@ coverage/
 *.log
 
 coffre-fort.secret.json
-cave-privee/
